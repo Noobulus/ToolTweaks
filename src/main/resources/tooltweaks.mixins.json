@@ -3,9 +3,12 @@
   "minVersion": "0.8",
   "package": "mod.noobulus.tooltweaks.mixin",
   "compatibilityLevel": "JAVA_17",
-  "mixins": [],
+  "mixins": [
+    "AccessorItemStack",
+    "MixinItem",
+    "MixinItemStack"
+  ],
   "client": [
-    "TitleScreenMixin"
   ],
   "injectors": {
     "defaultRequire": 1

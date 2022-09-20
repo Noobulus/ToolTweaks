@@ -6,7 +6,7 @@
 		"version": "${version}",
 		"metadata": {
 			"name": "Tool Tweaks",
-			"description": "A Mod for the Quilt Minecraft Modloader that rebalances vanilla tools and adds additional capabilities for packmakers.",
+			"description": "A mod for the Quilt Modloader that rebalances vanilla tools and adds additional capabilities for packmakers.",
 			"license": "MIT",
 			"contributors": {
 				"Your name here": "Noobulus"
