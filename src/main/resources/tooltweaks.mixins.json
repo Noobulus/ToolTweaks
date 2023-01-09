@@ -4,6 +4,8 @@
   "package": "mod.noobulus.tooltweaks.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "MixinArmorItem",
+    "MixinArmorMaterials",
     "MixinItem",
     "MixinItemStack"
   ],
